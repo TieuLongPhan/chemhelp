@@ -1,5 +1,5 @@
 import unittest
-from chem.help import mol_to_smiles
+from chemhelp.help import mol_to_smiles
 
 
 class TestHelp(unittest.TestCase):
